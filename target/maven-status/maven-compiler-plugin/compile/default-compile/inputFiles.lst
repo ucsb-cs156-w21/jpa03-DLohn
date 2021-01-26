@@ -1,0 +1,9 @@
+/cs/student/dlohn/cs156/jpa03-DLohn/src/main/java/com/ucsb/demonextjsspringtodoapp/DemoApplication.java
+/cs/student/dlohn/cs156/jpa03-DLohn/src/main/java/com/ucsb/demonextjsspringtodoapp/config/SecurityConfig.java
+/cs/student/dlohn/cs156/jpa03-DLohn/src/main/java/com/ucsb/demonextjsspringtodoapp/services/Auth0Service.java
+/cs/student/dlohn/cs156/jpa03-DLohn/src/main/java/com/ucsb/demonextjsspringtodoapp/repositories/TodoRepository.java
+/cs/student/dlohn/cs156/jpa03-DLohn/src/main/java/com/ucsb/demonextjsspringtodoapp/controllers/ReactController.java
+/cs/student/dlohn/cs156/jpa03-DLohn/src/main/java/com/ucsb/demonextjsspringtodoapp/models/GoogleUserProfile.java
+/cs/student/dlohn/cs156/jpa03-DLohn/src/main/java/com/ucsb/demonextjsspringtodoapp/controllers/AppController.java
+/cs/student/dlohn/cs156/jpa03-DLohn/src/main/java/com/ucsb/demonextjsspringtodoapp/controllers/TodoController.java
+/cs/student/dlohn/cs156/jpa03-DLohn/src/main/java/com/ucsb/demonextjsspringtodoapp/models/Todo.java

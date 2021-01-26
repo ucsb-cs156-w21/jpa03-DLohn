@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<project name="maven-antrun-" default="main"  >
+<target name="main">
+  <copy todir="/cs/student/dlohn/cs156/jpa03-DLohn/target/classes/public">
+    <fileset dir="/cs/student/dlohn/cs156/jpa03-DLohn/javascript/build"/>
+  </copy>
+</target>
+</project>
